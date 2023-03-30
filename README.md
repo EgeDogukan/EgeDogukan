@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Doğu</h1>
+<h1 align="center">Hi, I'm Doğu 👋</h1>
 <h3 align="center">A computer science and engineering student at Koç University Istanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egedogukan&label=Profile%20views&color=0e75b6&style=flat" alt="egedogukan" /> </p>
